@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<pattern  width="72" height="72" patternUnits="userSpaceOnUse" id="_x36__lpi_20_x25_" viewBox="72.3 -72 72 72" overflow="visible">
+	<g>
+		<polygon fill="none" points="72.3,-72 144.3,-72 144.3,0 72.3,0 		"/>
+		<g>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="144" y1="-6" x2="216.5" y2="-6"/>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="144" y1="-30" x2="216.5" y2="-30"/>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="144" y1="-54" x2="216.5" y2="-54"/>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="144" y1="-18" x2="216.5" y2="-18"/>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="144" y1="-42" x2="216.5" y2="-42"/>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="144" y1="-66" x2="216.5" y2="-66"/>
+		</g>
+		<g>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="72" y1="-6" x2="144.5" y2="-6"/>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="72" y1="-30" x2="144.5" y2="-30"/>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="72" y1="-54" x2="144.5" y2="-54"/>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="72" y1="-18" x2="144.5" y2="-18"/>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="72" y1="-42" x2="144.5" y2="-42"/>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="72" y1="-66" x2="144.5" y2="-66"/>
+		</g>
+		<g>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="0" y1="-6" x2="72.5" y2="-6"/>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="0" y1="-30" x2="72.5" y2="-30"/>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="0" y1="-54" x2="72.5" y2="-54"/>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="0" y1="-18" x2="72.5" y2="-18"/>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="0" y1="-42" x2="72.5" y2="-42"/>
+			<line fill="none" stroke="#231F20" stroke-width="2.4" x1="0" y1="-66" x2="72.5" y2="-66"/>
+		</g>
+	</g>
+</pattern>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-53.1488" y1="128.1353" x2="309.0965" y2="128.1353" gradientTransform="matrix(0.7071 -0.7071 0.7071 0.7071 -53.0965 128.032)">
+		<stop  offset="0" style="stop-color:#3E7937"/>
+		<stop  offset="2.066521e-002" style="stop-color:#407C38"/>
+		<stop  offset="0.2757" style="stop-color:#539940"/>
+		<stop  offset="0.5271" style="stop-color:#61AF45"/>
+		<stop  offset="0.7711" style="stop-color:#69BC49"/>
+		<stop  offset="0.9993" style="stop-color:#6CC04A"/>
+	</linearGradient>
+	<rect fill="url(#SVGID_1_)" width="256" height="256.3"/>
+	
+		<pattern  id="SVGID_2_" xlink:href="#_x36__lpi_20_x25_" patternTransform="matrix(0.3438 -0.3438 0.3438 0.3438 -2540.8899 -7897.2251)">
+	</pattern>
+	<rect opacity="3.000000e-002" fill="url(#SVGID_2_)" width="256" height="256.3"/>
+</g>
+<path fill="none" stroke="#B8DFA2" stroke-width="2" stroke-miterlimit="10" d="M193.8,231.8H62.2c-6.6,0-12-5.4-12-12V36.2
+	c0-6.6,5.4-12,12-12h131.6c6.6,0,12,5.4,12,12v183.6C205.8,226.4,200.4,231.8,193.8,231.8z"/>
+<g>
+	<rect x="57.3" y="33.2" fill="#B8DFA2" width="140" height="30.3"/>
+	<rect x="58" y="68.4" fill="#B8DFA2" width="140" height="30.3"/>
+	<text transform="matrix(1 0 0 1 68.654 53.6788)" fill="#6CC04A" font-family="'OpenSans-Bold'" font-size="15.0733">Your Page</text>
+	<text transform="matrix(1 0 0 1 68.654 90.6325)" fill="#6CC04A" font-family="'OpenSans-Semibold'" font-size="11.1834">Page Content</text>
+	<rect x="58" y="192.5" fill="#B8DFA2" width="140" height="30.3"/>
+	<text transform="matrix(1 0 0 1 68.654 214.7072)" fill="#6CC04A" font-family="'OpenSans-Semibold'" font-size="11.1834">Page Content</text>
+	<g>
+		<rect x="57.3" y="103.4" fill="#DFF0D3" width="141.4" height="84.2"/>
+		<rect x="64.4" y="112.1" fill="#6CC04A" width="18.3" height="18.3"/>
+		<rect x="64.4" y="136.4" fill="#6CC04A" width="18.3" height="18.3"/>
+		<rect x="64.4" y="160.9" fill="#6CC04A" width="18.3" height="18.3"/>
+		<text transform="matrix(1 0 0 1 89.8159 128.0298)" fill="#6CC04A" font-family="'OpenSans'" font-size="16.5003">Post 1</text>
+		<text transform="matrix(1 0 0 1 89.8159 150.7422)" fill="#6CC04A" font-family="'OpenSans'" font-size="16.5003">Post 2</text>
+		<text transform="matrix(1 0 0 1 89.8159 175.6807)" fill="#6CC04A" font-family="'OpenSans'" font-size="16.5003">Post 3</text>
+	</g>
+</g>
+</svg>
